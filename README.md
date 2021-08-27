@@ -9,8 +9,11 @@
     ![exam_logo](https://github.com/JH9892/tf_cert/blob/main/src/readme_img01.png)
     - This examination is offical of Google!
 - ### Category 01
-    - Simpily Model
+    - Basic Model
 - ### Category 02
+    - Models from learning datasets
+    - CNN (Grayscale Image)
+    - CNN
 - ### Category 03
 - ### Category 04
 - ### Category 05
