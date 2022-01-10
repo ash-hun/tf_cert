@@ -5,9 +5,9 @@
 ---
 
 ## **🏷️ Index**
-- ### Category 00 (= Explanation)
+- ### Explanation
     ![exam_logo](https://github.com/JH9892/tf_cert/blob/main/src/readme_img01.png)
-    - This examination is offical of Google!
+    - This examination is **"offical of Google"**!
 - ### Category 01
     - Basic Model
 - ### Category 02
