@@ -8,6 +8,12 @@
 - ### Explanation
     ![exam_logo](https://github.com/JH9892/tf_cert/blob/main/src/readme_img01.png)
     - This examination is **"offical of Google"**!
+    - Latest Updated!**(2022.01.10.)**  
+    ![latest updated](https://github.com/JH9892/tf_cert/blob/main/src/tf_cert_1.png)
+    - Before you begin,,  
+    ![before you begin](https://github.com/JH9892/tf_cert/blob/main/src/tf_cert_2.png)
+    - Check ready for the exam what libraries will the exam infrastructure install?  
+    ![what lib](https://github.com/JH9892/tf_cert/blob/main/src/tf_cert_3.png)
 - ### Category 01
     - Basic Model
 - ### Category 02
