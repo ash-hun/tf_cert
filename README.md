@@ -1,8 +1,11 @@
-<div align="center"><h1>tf-cert ( <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> )</h1></div>
+<div align="center"><h1>Tf-Cert ( <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> )</h1></div>
 
     tensorflow certification reviewing repository 입니다.
 
 ---
+
+## **🕸 DeadLine**
+- Feburary 1th, 2022
 
 ## **🏷️ Index**
 - ### Explanation
