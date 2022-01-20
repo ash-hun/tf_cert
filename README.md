@@ -22,7 +22,7 @@
 - ### Category 02
     - Models from learning datasets
     - CNN (Grayscale Image)
-    - CNN
+    - CNN (Static Image Processing)  
 - ### Category 03
 - ### Category 04
 - ### Category 05
