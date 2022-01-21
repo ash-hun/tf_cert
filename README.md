@@ -20,12 +20,15 @@
 - ### Category 01
     - Basic Model
 - ### Category 02
-    - Models from learning datasets
-    - CNN (Grayscale Image)
-    - CNN (Static Image Processing)  
+    - Models from learning tensorflow datasets
+    - DNN (Grayscale Image : Mnist or FashionMnist)
+    - DNN (Static Image Processing)  
 - ### Category 03
+    - CNN (Type A - Image Data Generator )
+    - CNN (Type B - Tensorflow Datasets )
 - ### Category 04
+    - NLP
 - ### Category 05
-
+    - Sequence, Time Series
 ## **Tooltips**
 - 런어데이 텐서플로 자격증 강의를 활용하였습니다.
