@@ -27,7 +27,7 @@
     - CNN (Type A - Image Data Generator )
     - CNN (Type B - Tensorflow Datasets )
 - ### Category 04
-    - NLP
+    - RNN (Sarcasm dataset) 
 - ### Category 05
     - Sequence, Time Series
 ## **Tooltips**
