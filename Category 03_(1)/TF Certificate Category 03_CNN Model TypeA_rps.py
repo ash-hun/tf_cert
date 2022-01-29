@@ -1,20 +1,12 @@
 """
 For this task you will build a classifier for Rock-Paper-Scissors based on the rps dataset.
-
 IMPORTANT: Your final layer should be as shown, do not change the provided code, or the tests may fail
-
 IMPORTANT: Images will be tested as 150x150 with 3 bytes of color depth So ensure that your input layer is designed accordingly, or the tests may fail.
-
 NOTE THAT THIS IS UNLABELLED DATA. You can use the ImageDataGenerator to automatically label it and we have provided some starter code.
-
 이 작업에서는 Rock-Paper-Scissors에 대한 분류기를 작성합니다. rps 데이터 셋을 기반으로합니다.
-
 중요 : 최종 레이어는 그림과 같아야합니다.
-
 중요 : 이미지는 3 바이트 150x150의 컬러사진으로 테스트됩니다. 따라서 입력 레이어가 그에 따라 설계되었거나 테스트되었는지 확인하십시오.
-
 ImageDataGenerator를 사용하여 자동으로 레이블을 지정할 수 있습니다.
-
 """
 
 # Step 00. Import Module
