@@ -5,7 +5,7 @@
 ---
 
 ## **🕸 DeadLine**
-- Feburary 1th, 2022
+- Feburary 10th, 2022
 
 ## **🏷️ Index**
 - ### Explanation
@@ -29,6 +29,9 @@
 - ### Category 04
     - RNN (Sarcasm dataset) 
 - ### Category 05
-    - Sequence, Time Series
+    - Sequence, Time Series (Sunspots Predict)
+    - Sequence, Time Series (Household Electric Power Consumption)
+    - Sequence, Time Series (Weekly US Retail)
+
 ## **Tooltips**
 - 런어데이 텐서플로 자격증 강의를 활용하였습니다.
