@@ -36,9 +36,9 @@
 ---  
 ## **✨ Certification**
 - Google Developer Network
-    ![Network]("./src/network.png")
+    ![Network](./src/network.png)
 
 - Google Tensorflow Developer Certification
-    !{cert}("./src/cert.png")
+    ![cert](./src/cert.png)
 ## **Tooltips**
 - 런어데이 텐서플로 자격증 강의를 활용하였습니다.
